@@ -8,7 +8,7 @@ function App() {
         <nav className="brand__nav">
           <a href="#recursos">Recursos</a>
           <a href="#como-funciona">Como funciona</a>
-          <a href="#cta" className="btn btn--sm">Login</a>
+          <a href="https://main.d2a82veqkndbjb.amplifyapp.com/" className="btn btn--sm">Login</a>
         </nav>
       </header>
 
@@ -19,7 +19,7 @@ function App() {
           carteira de criptoativos em um só lugar.
         </p>
         <div className="hero__actions">
-          <a href="#cta" className="btn btn--primary">Criar carteira</a>
+          <a href="https://main.d2a82veqkndbjb.amplifyapp.com/" className="btn btn--primary">Criar carteira</a>
           <a href="#recursos" className="btn btn--ghost">Explorar recursos</a>
         </div>
       </section>
@@ -63,7 +63,7 @@ function App() {
       <section id="cta" className="cta">
         <h2>Pronto para acompanhar sua carteira?</h2>
         <p>Crie sua carteira e tenha clareza total sobre seus criptoativos.</p>
-        <a className="btn btn--primary btn--lg" href="#">Começar agora</a>
+        <a className="btn btn--primary btn--lg" href="https://main.d2a82veqkndbjb.amplifyapp.com/">Começar agora</a>
       </section>
 
       <footer className="footer">
